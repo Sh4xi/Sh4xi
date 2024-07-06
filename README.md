@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sh4xi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&color=AA02FF&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Welcome+to+my+profile!;+I'm+Third+Tabug!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&color=BF8EFFFF&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Welcome+to+my+profile!;+I'm+Third+Tabug!;" />
 </h1>
 
 <h3 align="center"> An aspiring Web Developer from Philippines </h3>
@@ -11,7 +11,7 @@
 
  </div>
  
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weigh=500&pause=10000&color=AA02FF&center=true&vCenter=true&random=false&width=435&lines=Languages+%7C+Tools+%7C+Frameworks" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weigh=500&pause=10000&color=BF8EFFFF&center=true&vCenter=true&random=false&width=435&lines=Languages+%7C+Tools+%7C+Frameworks" alt="Typing SVG" /></h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,figma,git,blender,flutter,illustrator" /><br>
