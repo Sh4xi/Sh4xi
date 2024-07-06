@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Bungee+Spice&size=35&color=AA02FF&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Welcome+to+my+profile!;+I'm+Third+Tabug!;" />
 </h1>
 
-<h3 align="center">An aspiring Full Stack Developer </h3>
+<h3 align="center">An aspiring Web Developer </h3>
 </br>
 
 <div align="center">
