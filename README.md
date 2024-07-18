@@ -23,6 +23,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sh4xi&theme=tokyonight-duo&border=true&card_width=1000&card_height=250&background=EB545400" alt="GitHub Streak" /></a>
 
 <div align="center">
-  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+   Thanks for watching my profile! Have a nice day! <br/>
   &copy; 2024 Ignacio tabug III
 </div>
