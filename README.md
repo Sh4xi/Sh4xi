@@ -14,8 +14,8 @@
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weigh=500&pause=10000&color=BF8EFFFF&center=true&vCenter=true&random=false&width=435&lines=Languages+%7C+Tools+%7C+Frameworks" alt="Typing SVG" /></h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,figma,git,blender,flutter,illustrator" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,firebase,supabase,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,figma,git,blender,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,firebase,supabase," /><br>
 </div>
 
 <br/>
